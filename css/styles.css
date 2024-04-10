@@ -1,6 +1,7 @@
 body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 5vw;
+    padding: 3rem;
 }
 
 p {
@@ -20,4 +21,8 @@ a {
 .HOME {
     background-color: rgb(255, 113, 241);
     justify-content: center;
+}
+
+img { width: 50%; margin-left: 7rem;
+    
 }
